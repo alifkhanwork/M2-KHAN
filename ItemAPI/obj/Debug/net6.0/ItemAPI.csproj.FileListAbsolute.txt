@@ -89,3 +89,4 @@ C:\Users\alifj\source\repos\KhanM1\ItemAPI\bin\Debug\net6.0\Microsoft.AspNetCore
 C:\Users\alifj\source\repos\KhanM1\ItemAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\alifj\source\repos\KhanM1\ItemAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\alifj\source\repos\KhanM1\ItemAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alifj\source\repos\KhanM1\ItemAPI\obj\Debug\net6.0\ItemAPI.sourcelink.json

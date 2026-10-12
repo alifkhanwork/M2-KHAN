@@ -1,0 +1,16 @@
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\bin\Debug\net6.0-windows\PixelPawn.Desktop.exe
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\bin\Debug\net6.0-windows\PixelPawn.Desktop.deps.json
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\bin\Debug\net6.0-windows\PixelPawn.Desktop.runtimeconfig.json
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\bin\Debug\net6.0-windows\PixelPawn.Desktop.dll
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\bin\Debug\net6.0-windows\PixelPawn.Desktop.pdb
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.AssemblyInfoInputs.cache
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.AssemblyInfo.cs
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.sourcelink.json
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.dll
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\refint\PixelPawn.Desktop.dll
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.pdb
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPawn.Desktop.genruntimeconfig.cache
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\ref\PixelPawn.Desktop.dll
+C:\Users\alifj\source\repos\KhanM1\PixelPawn.Desktop\obj\Debug\net6.0-windows\PixelPaw.4FCFE3DF.Up2Date

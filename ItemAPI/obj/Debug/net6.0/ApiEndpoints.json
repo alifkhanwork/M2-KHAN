@@ -109,5 +109,62 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItemAPI.Controllers.ReportController",
+    "Method": "LowStock",
+    "RelativePath": "api/Report/lowstock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItemAPI.Controllers.ReportController",
+    "Method": "Summary",
+    "RelativePath": "api/Report/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItemAPI.Controllers.TransactionController",
+    "Method": "Get",
+    "RelativePath": "api/Transaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItemAPI.Controllers.TransactionController",
+    "Method": "Post",
+    "RelativePath": "api/Transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "t",
+        "Type": "ItemDataLibrary.Models.TransactionModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

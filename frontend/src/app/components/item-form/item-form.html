@@ -1,8 +1,0 @@
-<h2>{{ id ? 'Edit Item' : 'Add Item' }}</h2>
-<form (ngSubmit)="onSubmit()">
-  <label>Name</label>  <input name="name" [(ngModel)]="form.name" required />
-  <label>Code</label>  <input name="code" [(ngModel)]="form.code" required />
-  <label>Brand</label> <input name="brand" [(ngModel)]="form.brand" required />
-  <label>Unit Price</label> <input name="unitPrice" type="number" [(ngModel)]="form.unitPrice" required />
-  <button>Save</button>
-</form>

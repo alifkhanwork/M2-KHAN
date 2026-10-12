@@ -7,5 +7,10 @@
         public string Code { get; set; } = "";
         public string Brand { get; set; } = "";
         public decimal UnitPrice { get; set; }
+        public string Platform { get; set; }
+        public string Condition { get; set; }
+        public int Quantity { get; set; }
+        public int ReorderLevel { get; set; }
     }
+
 }

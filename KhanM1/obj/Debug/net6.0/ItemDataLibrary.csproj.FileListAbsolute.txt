@@ -11,3 +11,4 @@ C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\refint\ItemDataLibrar
 C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.pdb
 C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ref\ItemDataLibrary.dll
 C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemData.22D46BE2.Up2Date
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.sourcelink.json

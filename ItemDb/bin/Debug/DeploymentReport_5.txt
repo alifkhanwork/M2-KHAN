@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Items] (Table)
+       [dbo].[spItems_Details] (Procedure)
+       [dbo].[spItems_Insert] (Procedure)
+       [dbo].[spItems_List] (Procedure)
+       [dbo].[spItems_Update] (Procedure)
+     Create
+       [dbo].[Transactions] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Transactions] (Default Constraint)
+       Foreign Key: unnamed constraint on [dbo].[Transactions] (Foreign Key)
+       [dbo].[spReport_LowStock] (Procedure)
+       [dbo].[spReport_Summary] (Procedure)
+       [dbo].[spTransaction_Create] (Procedure)
+       [dbo].[spTransaction_GetAll] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[spItems_Delete] (Procedure)

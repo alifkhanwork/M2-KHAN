@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ItemAPI/ItemAPI.csproj" />
+  <Project Path="ItemDb/ItemDb.sqlproj" Id="8798399a-580f-4113-b6c2-d4f4f5cbd40f">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="KhanM1/ItemDataLibrary.csproj" />
+  <Project Path="PixelPawn.Desktop/PixelPawn.Desktop.csproj" Id="8b1b6dc2-89f0-4772-a348-43112657c72f" />
+</Solution>

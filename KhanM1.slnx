@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="ItemAPI/ItemAPI.csproj" />
-  <Project Path="ItemDb/ItemDb.sqlproj" Id="8798399a-580f-4113-b6c2-d4f4f5cbd40f">
-    <Build />
-    <Deploy />
-  </Project>
-  <Project Path="KhanM1/ItemDataLibrary.csproj" />
-</Solution>

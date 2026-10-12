@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ItemAPI\\ItemAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PixelPawn.Desktop\\PixelPawn.Desktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

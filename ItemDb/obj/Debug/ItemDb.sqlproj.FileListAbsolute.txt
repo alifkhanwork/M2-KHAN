@@ -2,9 +2,5 @@ C:\Users\alifj\source\repos\KhanM1\ItemDb\bin\Debug\ItemDb.dacpac
 C:\Users\alifj\source\repos\KhanM1\ItemDb\bin\Debug\ItemDb.dll
 C:\Users\alifj\source\repos\KhanM1\ItemDb\bin\Debug\ItemDb.pdb
 C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\ItemDb.sqlproj.AssemblyReference.cache
-C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\Model.xml
-C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\refactor.xml
-C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\postdeploy.sql
-C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\predeploy.sql
 C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\ItemDb.dll
 C:\Users\alifj\source\repos\KhanM1\ItemDb\obj\Debug\ItemDb.pdb
